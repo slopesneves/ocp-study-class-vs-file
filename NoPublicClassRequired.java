@@ -1,0 +1,3 @@
+class NoPublicClassRequired {
+	String name;
+}
